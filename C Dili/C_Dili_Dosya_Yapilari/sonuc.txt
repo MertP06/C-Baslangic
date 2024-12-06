@@ -1,0 +1,7 @@
+Deger1 icin Aritmetik Ortalama: 50.500000
+Deger2 icin Aritmetik Ortalama: 65.347000
+Deger3 icin Aritmetik Ortalama: 653.534700
+
+Deger1 icin Aciklik: 99
+Deger2 icin Aciklik: 89.889999
+Deger3 icin Aciklik: 898.989000
